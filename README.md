@@ -1,4 +1,4 @@
-# ChatBotBeasy
+# ChatBot
 
 Para executar o TAURUSBOT:
 
